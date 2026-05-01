@@ -1,4 +1,4 @@
-<img width="1347" height="850" alt="截屏2026-05-01 下午12 56 59" src="https://github.com/user-attachments/assets/fd3c4023-8f6b-4198-a7bb-2c6fd066d956" /># Chinese Medical Q&A LLM
+<img width="1347" height="850" alt="截屏2026-05-01 下午12 56 59" src="https://github.com/user-attachments/assets/fd3c4023-8f6b-4198-a7bb-2c6fd066d956" />
 
 **中文医疗问答大模型** — 基于 Qwen2.5-14B 微调与 Qwen2.5-VL-7B 多模态的医疗智能助手。
 
