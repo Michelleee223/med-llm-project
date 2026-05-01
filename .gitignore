@@ -1,0 +1,24 @@
+# 排除大模型权重目录（这些文件太大不适合放 GitHub）
+qwen25-14b/
+qwen25-vl-7b/
+qwen25-14b-finetuned-lora/
+qwen25-vl-7b-finetuned/
+
+# 排除 Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# 排除临时文件
+*.log
+.DS_Store
+# 排除训练缓存
+unsloth_compiled_cache/
+outputs/
+# 排除训练图片（这些图片太大不适合放 GitHub）
+7-med-fine-tuning-vl/dataset-img-train/
+7-med-fine-tuning-vl/test-img/
